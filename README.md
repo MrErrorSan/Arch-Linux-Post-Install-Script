@@ -23,8 +23,22 @@ This script performs the following actions:
 
 # Prerequisites
 
-    Arch Linux installed and operational.
+Arch Linux installed and operational.
 
 # Instructions
 
-    Clone this repository and navigate to the directory.
+1. Clone this repository and navigate to the directory.
+```bash
+git clone https://github.com/your_username/Arch-Linux-Post-Install-Script.git
+cd Arch-Linux-Post-Install-Script
+```
+2. Make the script executable and run it.
+```bash
+chmod +x post_install.sh
+./post_install.sh
+```
+3. Follow the prompts and instructions provided by the script.
+# Notes
+    Ensure you have internet connectivity before running the script.
+    Review the script to understand each step before executing it.
+    Make necessary adjustments according to your system requirements.
